@@ -21,9 +21,10 @@ cd CVXPY_Stocks
 
 Fetch Stock Data
 ```
-from data_fetcher import get_stock_data
-tickers = ["AAPL", "MSFT", "GOOG", "AMZN"]
-data = get_stock_data(tickers, start="2020-01-01", end="2023-12-31")
+tickers = ['AAPL', 'MSFT', 'GOOG', 'AMZN', 'META', 'TSLA', 'JPM', 'GS', 'WMT', 'NFLX']
+start_date = '2021-01-01'
+end_date = '2025-12-31'
+price_data = fetch_stock_data(tickers, start_date, end_date)
 ```
 
 
