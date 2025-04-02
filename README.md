@@ -13,7 +13,7 @@ This repository implements Markowitz Mean-Variance Portfolio Optimization using 
 
 ### Installation
 ```
-git clone [https://github.com/yourusername/portfolio-optimization.git](https://github.com/Cheer3142/CVXPY_Stocks.git)
+git clone https://github.com/Cheer3142/CVXPY_Stocks.git
 cd CVXPY_Stocks
 ```
 
