@@ -2,7 +2,7 @@
 
 ## Portfolio Optimization with Convex Optimization
 
-_This assignment only covers the fundamental idea and is a component of the course Optimization Theory and Its Applications in Signal Processing and Communications._
+"_This assignment only covers the fundamental idea and is a component of the course Optimization Theory and Its Applications in Signal Processing and Communications._"
 
 This repository implements Markowitz Mean-Variance Portfolio Optimization using CVXPY to construct efficient portfolios from real stock data. The project demonstrates how convex optimization helps balance risk and return while incorporating practical constraints like no short-selling and sector limits.
 
