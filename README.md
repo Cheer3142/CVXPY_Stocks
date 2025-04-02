@@ -13,16 +13,11 @@ This repository implements Markowitz Mean-Variance Portfolio Optimization using 
 
 ### Installation
 ```
-bash
-Copy
 git clone https://github.com/yourusername/portfolio-optimization.git
 cd portfolio-optimization
-pip install -r requirements.txt
-Usage
-Fetch Stock Data
 ```
 
-python
+Fetch Stock Data
 ```
 from data_fetcher import get_stock_data
 tickers = ["AAPL", "MSFT", "GOOG", "AMZN"]
