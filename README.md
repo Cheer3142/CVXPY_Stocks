@@ -5,11 +5,11 @@
 This repository implements Markowitz Mean-Variance Portfolio Optimization using CVXPY to construct efficient portfolios from real stock data. The project demonstrates how convex optimization helps balance risk and return while incorporating practical constraints like no short-selling and sector limits.
 
 ### Key Features
-✔ Efficient Frontier – Visualize optimal risk-return trade-offs __
-✔ Real Stock Data – Fetch and analyze historical prices using yfinance__
-✔ Convex Optimization – Solve portfolio allocation using CVXPY__
-✔ Constraints Handling – No short-selling and turnover limits__
-✔ Robust Analysis – Sensitivity to input parameters (μ, Σ)__
+✔ Efficient Frontier – Visualize optimal risk-return trade-offs <br />
+✔ Real Stock Data – Fetch and analyze historical prices using yfinance <br />
+✔ Convex Optimization – Solve portfolio allocation using CVXPY <br />
+✔ Constraints Handling – No short-selling and turnover limits <br />
+✔ Robust Analysis – Sensitivity to input parameters (μ, Σ) <br />
 
 ### Installation
 ```
